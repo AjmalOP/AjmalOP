@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjmalOP&label=Profile%20views&color=0e75b6&style=flat" alt="AjmalOP" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ajmalop" target="blank"><img src="https://img.shields.io/twitter/follow/shaaaan70?logo=twitter&style=for-the-badge" alt="AjmalOP" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ajmalop" target="blank"><img src="https://img.shields.io/twitter/follow/AjmalOP?logo=linkedin&style=for-the-badge" alt="AjmalOP" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce website](https://shaannn7.github.io/UrbanLoom/) 
 
