@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/ajmalop" target="blank"><img src="https://img.shields.io/twitter/follow/AjmalOP?logo=linkedin&style=for-the-badge" alt="AjmalOP" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://shaannn7.github.io/UrbanLoom/) 
+- 🔭 I’m currently working on [E-commerce website](https://ajmalop.github.io/woodcurl/) 
 
-- 👨‍💻 All of my projects are available at [https://shaannn7.github.io/Shaann/]
+- 👨‍💻 All of my projects are available at [https://github.com/AjmalOP]
 
 - 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , C# , .Net , ASP.Net , SQL SERVER , ADO.Net , ENTITY FRAMEWORK , Tech , Computer Languages
 
-- 📫 How to reach me  [Shanuparambat10@gmail.com]
+- 📫 How to reach me  [ajmalop22@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
